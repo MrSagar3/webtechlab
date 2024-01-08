@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+  <address state="California" city="San Francisco" municipality="Mission" home-number="1234">
+  </address>
+</person>
